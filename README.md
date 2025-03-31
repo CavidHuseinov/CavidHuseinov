@@ -3,11 +3,6 @@
 ## 🚀 Backend Developer | C# .NET | Web API | SQL Server | PostgreSQL                                     
   ![Profile Views](https://komarev.com/ghpvc/?username=CavidHuseinov&style=for-the-badge&color=blue)
 ---
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CavidHuseinov&theme=dark" alt="GitHub Streak">
-</div>  
-
 ---
 
 ## 🔥 **Tech Stack**
